@@ -131,7 +131,7 @@ class ApplicationMain {
 		
 		config = {
 			
-			build: "5",
+			build: "14",
 			company: "HaxeFlixel",
 			file: "BeeClickers",
 			fps: 60,
